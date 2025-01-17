@@ -1,0 +1,9 @@
+{
+	"name": "azure9344442650adf",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "61b416e7-d4d4-4244-af87-ea0e36cdacd0",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
